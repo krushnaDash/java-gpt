@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../microgpt-c"
+		}
+	],
+	"settings": {
+		"diffEditor.codeLens": true
+	}
+}
